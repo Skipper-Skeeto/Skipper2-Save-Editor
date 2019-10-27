@@ -1,0 +1,40 @@
+﻿namespace SkipperSkeetoSaveEditor
+{
+	public enum Rooms
+	{
+		Observatory = 22,
+		Fake_Treasure_Room = 23,
+		Mouse_Door = 24,
+		Lumber_Room = 25,
+		Attic_Window_Room = 26,
+		Wine_Cellar = 27,
+		Kids_Room = 28,
+		Crypt = 29,
+		Dining_Room = 31,
+		Dining_Table = 32,
+		Greenhouse = 34,
+		Guest_Room = 35,
+		Main_Hall = 36,
+		Skeleton_Cat = 37,
+		Kitchen = 38,
+		Laboratory = 39,
+		Maze_One = 40,
+		Maze_Two = 42,
+		Library = 43,
+		Living_Room = 44,
+		Bedroom = 45,
+		Roof = 46,
+		Constellations = 47,
+		First_Floor = 49,
+		Sewer_One = 50,
+		Sewer_Two = 51,
+		Skull_Stairs = 52,
+		Clock_Tower_One = 53,
+		Clock_Tower_Two = 54,
+		Runes_Door = 55,
+		Girls_Room = 57,
+		Clockworks = 58,
+		Treasure_Chamber = 59,
+		Game_Over = 62
+	}
+}
